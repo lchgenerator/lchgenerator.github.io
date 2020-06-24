@@ -1,0 +1,18 @@
+
+span{
+  font-size: 45px;
+}
+
+.variavel{
+  color: blue;
+  
+  text-decoration: underline;
+  text-decoration-color: blue;
+}
+
+.conectivo{
+  color: red;
+
+  text-decoration: underline;
+  text-decoration-color: red;
+}
